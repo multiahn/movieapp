@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/multiahn/movieapp/static/css/main.a6a7ba4c.chunk.css",
+    "main.js": "/multiahn/movieapp/static/js/main.4a848ba3.chunk.js",
+    "main.js.map": "/multiahn/movieapp/static/js/main.4a848ba3.chunk.js.map",
+    "runtime-main.js": "/multiahn/movieapp/static/js/runtime-main.2bc2d103.js",
+    "runtime-main.js.map": "/multiahn/movieapp/static/js/runtime-main.2bc2d103.js.map",
+    "static/js/2.aeb14d25.chunk.js": "/multiahn/movieapp/static/js/2.aeb14d25.chunk.js",
+    "static/js/2.aeb14d25.chunk.js.map": "/multiahn/movieapp/static/js/2.aeb14d25.chunk.js.map",
+    "index.html": "/multiahn/movieapp/index.html",
+    "static/css/main.a6a7ba4c.chunk.css.map": "/multiahn/movieapp/static/css/main.a6a7ba4c.chunk.css.map",
+    "static/js/2.aeb14d25.chunk.js.LICENSE.txt": "/multiahn/movieapp/static/js/2.aeb14d25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bc2d103.js",
+    "static/js/2.aeb14d25.chunk.js",
+    "static/css/main.a6a7ba4c.chunk.css",
+    "static/js/main.4a848ba3.chunk.js"
+  ]
+}
